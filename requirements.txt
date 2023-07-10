@@ -1,0 +1,6 @@
+os
+requests
+tkinter
+re
+python-dotenv
+gradio
