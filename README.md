@@ -26,7 +26,12 @@ This is a simple weather forecasting application built with Python, Tkinter, Gra
 
 4. Run the Tkinter version of the application with `python app_tkinter.py`.
 
+![image](https://github.com/jazzpujols34/Build-a-Weather-Forecast-Application-with-Python-and-Tkinter/assets/62235508/cc792177-3f08-4e99-9361-9063107ff9ae)
+
 5. Run the Gradio version of the application with `python app_gradio.py`.
+
+![image](https://github.com/jazzpujols34/Build-a-Weather-Forecast-Application-with-Python-and-Tkinter/assets/62235508/4a20d07e-ca31-498d-b8f9-46a0d0167288)
+
 
 ## Usage
 
